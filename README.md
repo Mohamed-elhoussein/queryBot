@@ -4,8 +4,8 @@
 This project provides backend functionality for a query bot handling call logs, agent performance, and targets/achievements.
 
 ## Setup Instructions
-- Clone the repository: `git clone <repo-url>`
-- Navigate to the project directory: `cd query-bot-backend`
+- Clone the repository: `git clone https://github.com/Mohamed-elhoussein/queryBot.git`
+- Navigate to the project directory: `cd queryBot`
 - Install dependencies: `composer install`
 - Configure environment variables in `.env`
 - Run migrations: `php artisan migrate`
